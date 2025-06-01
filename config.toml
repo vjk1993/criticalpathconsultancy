@@ -1,4 +1,18 @@
 baseURL = "https://www.criticalpathconsultancy.com/"
 languageCode = "en-us"
 title = "Critical Path Consultancy"
-theme = "ananke"
+theme = "PaperMod"
+
+[params.homeInfoParams]
+  Title = "Critical Path Consultancy"
+  Content = "We help infrastructure and construction clients execute with precision and control."
+
+[params]
+  defaultTheme = "light"
+  ShowReadingTime = false
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 1
+
