@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://www.criticalpathconsultancy.com/"
 languageCode = "en-us"
 title = "Critical Path Consultancy"
 theme = "ananke"
